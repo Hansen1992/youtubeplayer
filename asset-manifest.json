@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/youtubeplayer/static/css/main.03c6ca28.chunk.css",
+    "main.js": "/youtubeplayer/static/js/main.ee4c581e.chunk.js",
+    "main.js.map": "/youtubeplayer/static/js/main.ee4c581e.chunk.js.map",
+    "runtime-main.js": "/youtubeplayer/static/js/runtime-main.9f3a12e0.js",
+    "runtime-main.js.map": "/youtubeplayer/static/js/runtime-main.9f3a12e0.js.map",
+    "static/js/2.4f89ca66.chunk.js": "/youtubeplayer/static/js/2.4f89ca66.chunk.js",
+    "static/js/2.4f89ca66.chunk.js.map": "/youtubeplayer/static/js/2.4f89ca66.chunk.js.map",
+    "index.html": "/youtubeplayer/index.html",
+    "precache-manifest.9906e28041baa5c468d5ca1c944cb5af.js": "/youtubeplayer/precache-manifest.9906e28041baa5c468d5ca1c944cb5af.js",
+    "service-worker.js": "/youtubeplayer/service-worker.js",
+    "static/css/main.03c6ca28.chunk.css.map": "/youtubeplayer/static/css/main.03c6ca28.chunk.css.map"
+  }
+}
